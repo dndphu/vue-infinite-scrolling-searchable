@@ -45,3 +45,4 @@ npm run build
 npm run lint
 ```
 # vue-infinite-scrolling-searchable
+Demo: https://vue-infinite-scrolling-searchable.vercel.app/
